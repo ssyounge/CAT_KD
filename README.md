@@ -85,4 +85,4 @@
   - **`seen_acc`**: 학습된 클래스 정확도  
   - **`unseen_acc`**: 미사용 클래스 정확도
  
-### `cam_extraction_method`, transfer_unseen_cam' 구현이 미흡해, 아직 반영하지않았습니다. 해당 실험 컨험후 반영하도록 하겠습니다.
+'cam_extraction_method','transfer_unseen_cam' 구현이 미흡해, 아직 반영하지않았습니다. 해당 실험 컨험후 반영하도록 하겠습니다.
